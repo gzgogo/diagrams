@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T10:03:11.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.5.1" etag="_jrKqzsxVEAR7g810Heu" type="github"><diagram id="7nxwiYUjWN41mbppCU7M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-15T01:46:00.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="8pjbRAdtdB3ZoLNW1U7Z" version="14.5.1" type="github">
+  <diagram id="7nxwiYUjWN41mbppCU7M" name="Page-1">
+    <mxGraphModel dx="940" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x_liM_doq1gJBasH7my8-1" value="grunt&lt;br style=&quot;font-size: 12px;&quot;&gt;gulp&lt;br style=&quot;font-size: 12px;&quot;&gt;fis&lt;br style=&quot;font-size: 12px;&quot;&gt;webpack&lt;br style=&quot;font-size: 12px;&quot;&gt;rollup&lt;br style=&quot;font-size: 12px;&quot;&gt;snowpack&lt;br style=&quot;font-size: 12px;&quot;&gt;esbuild&lt;br style=&quot;font-size: 12px;&quot;&gt;vite" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;spacing=7;spacingTop=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="90" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x_liM_doq1gJBasH7my8-3" value="cra&lt;br style=&quot;font-size: 12px;&quot;&gt;vue-cli&lt;br style=&quot;font-size: 12px;&quot;&gt;umijs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;spacing=7;spacingTop=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="90" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x_liM_doq1gJBasH7my8-4" value="antd pro&lt;br style=&quot;font-size: 12px;&quot;&gt;ice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=7;spacingTop=3;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="90" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="x_liM_doq1gJBasH7my8-5" value="构建工具" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_liM_doq1gJBasH7my8-6" value="脚手架" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x_liM_doq1gJBasH7my8-7" value="解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
